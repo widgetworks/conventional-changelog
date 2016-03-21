@@ -1,5 +1,5 @@
 {
-  "name": "conventional-changelog",
+  "name": "@wiwo/conventional-changelog",
   "codename": "reorder",
   "version": "0.0.11-wiwo.1",
   "description": "Generate a markdown changelog from git commit metadata",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajoslin/conventional-changelog.git"
+    "url": "https://github.com/widgetworks/conventional-changelog.git"
   },
   "keywords": [
     "changelog"
